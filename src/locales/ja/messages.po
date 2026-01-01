@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2026-01-01 00:50+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: ja\n"
+
+#: src/components/AppContent.tsx:128
+msgid "(No name)"
+msgstr "(名前なし)"
+
+#: src/components/AppContent.tsx:301
+msgid "Calls"
+msgstr "通話"
+
+#: src/components/AppContent.tsx:216
+msgid "Callsy marked your allowed contacts as favorites. Now go to Do Not Disturb -> People/Calls and allow calls from Favorites/Starred contacts. If your phone doesn't offer that option, you can only allow Contacts or Repeated calls."
+msgstr "Callsy は許可した連絡先をお気に入りに設定しました。今すぐ おやすみモード -> 人/通話 に移動し、お気に入り/スター付き連絡先からの通話を許可してください。端末にその項目がない場合は、連絡先または繰り返しの通話のみ許可できます。"
+
+#: src/components/AppContent.tsx:256
+msgid "Could not open notification access settings."
+msgstr "通知アクセスの設定を開けませんでした。"
+
+#: src/components/AppContent.tsx:245
+msgid "Enable notification access for Callsy (used to filter WhatsApp notifications)."
+msgstr "Callsy の通知アクセスを有効にしてください（WhatsApp 通知のフィルタに使用します）。"
+
+#: src/components/AppContent.tsx:255
+msgid "Error"
+msgstr "エラー"
+
+#: src/components/AppContent.tsx:104
+msgid "I need access to your contacts."
+msgstr "連絡先へのアクセスが必要です。"
+
+#: src/components/AppContent.tsx:354
+msgid "Load contacts"
+msgstr "連絡先を読み込む"
+
+#: src/components/AppContent.tsx:382
+msgid "Loading..."
+msgstr "読み込み中..."
+
+#: src/components/AppContent.tsx:228
+#: src/components/AppContent.tsx:261
+msgid "OK"
+msgstr "OK"
+
+#: src/components/AppContent.tsx:219
+msgid "Open Do Not Disturb"
+msgstr "おやすみモードを開く"
+
+#: src/components/AppContent.tsx:248
+msgid "Open settings"
+msgstr "設定を開く"
+
+#: src/components/AppContent.tsx:103
+#: src/components/AppContent.tsx:196
+msgid "Permission required"
+msgstr "権限が必要です"
+
+#: src/components/AppContent.tsx:244
+msgid "Requires notification access"
+msgstr "通知アクセスが必要です"
+
+#: src/components/AppContent.tsx:365
+msgid "Save selection"
+msgstr "選択を保存"
+
+#. placeholder {0}: selected.length
+#: src/components/AppContent.tsx:169
+msgid "Saved: Allowed contacts: {0}"
+msgstr "保存しました: 許可された連絡先: {0}"
+
+#: src/components/AppContent.tsx:372
+msgid "Search..."
+msgstr "検索..."
+
+#: src/components/AppContent.tsx:206
+msgid "Select allowed contacts and save first."
+msgstr "許可する連絡先を選択して先に保存してください。"
+
+#: src/components/AppContent.tsx:296
+msgid "Select allowed contacts to mark them as favorites."
+msgstr "許可する連絡先を選択してお気に入りにします。"
+
+#: src/components/AppContent.tsx:205
+msgid "Select contacts"
+msgstr "連絡先を選択"
+
+#: src/components/AppContent.tsx:215
+msgid "Setup required"
+msgstr "設定が必要です"
+
+#: src/components/AppContent.tsx:197
+msgid "To mark favorites (and allow calls during Do Not Disturb), Callsy needs permission to modify contacts (WRITE_CONTACTS)."
+msgstr "お気に入りにする（おやすみモード中の通話を許可する）には、Callsy に連絡先を変更する権限（WRITE_CONTACTS）が必要です。"
+
+#: src/components/AppContent.tsx:307
+msgid "WhatsApp"
+msgstr "WhatsApp"

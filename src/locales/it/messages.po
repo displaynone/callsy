@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2026-01-01 00:50+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: it\n"
+
+#: src/components/AppContent.tsx:128
+msgid "(No name)"
+msgstr "(Senza nome)"
+
+#: src/components/AppContent.tsx:301
+msgid "Calls"
+msgstr "Chiamate"
+
+#: src/components/AppContent.tsx:216
+msgid "Callsy marked your allowed contacts as favorites. Now go to Do Not Disturb -> People/Calls and allow calls from Favorites/Starred contacts. If your phone doesn't offer that option, you can only allow Contacts or Repeated calls."
+msgstr "Callsy ha contrassegnato i tuoi contatti consentiti come preferiti. Ora vai su Non disturbare -> Persone/Chiamate e consenti le chiamate da contatti Preferiti/Con stella. Se il telefono non offre questa opzione, puoi consentire solo Contatti o Chiamate ripetute."
+
+#: src/components/AppContent.tsx:256
+msgid "Could not open notification access settings."
+msgstr "Impossibile aprire le impostazioni di accesso alle notifiche."
+
+#: src/components/AppContent.tsx:245
+msgid "Enable notification access for Callsy (used to filter WhatsApp notifications)."
+msgstr "Abilita l'accesso alle notifiche per Callsy (usato per filtrare le notifiche di WhatsApp)."
+
+#: src/components/AppContent.tsx:255
+msgid "Error"
+msgstr "Errore"
+
+#: src/components/AppContent.tsx:104
+msgid "I need access to your contacts."
+msgstr "Ho bisogno di accedere ai tuoi contatti."
+
+#: src/components/AppContent.tsx:354
+msgid "Load contacts"
+msgstr "Carica contatti"
+
+#: src/components/AppContent.tsx:382
+msgid "Loading..."
+msgstr "Caricamento..."
+
+#: src/components/AppContent.tsx:228
+#: src/components/AppContent.tsx:261
+msgid "OK"
+msgstr "OK"
+
+#: src/components/AppContent.tsx:219
+msgid "Open Do Not Disturb"
+msgstr "Apri Non disturbare"
+
+#: src/components/AppContent.tsx:248
+msgid "Open settings"
+msgstr "Apri impostazioni"
+
+#: src/components/AppContent.tsx:103
+#: src/components/AppContent.tsx:196
+msgid "Permission required"
+msgstr "Autorizzazione richiesta"
+
+#: src/components/AppContent.tsx:244
+msgid "Requires notification access"
+msgstr "Accesso alle notifiche richiesto"
+
+#: src/components/AppContent.tsx:365
+msgid "Save selection"
+msgstr "Salva selezione"
+
+#. placeholder {0}: selected.length
+#: src/components/AppContent.tsx:169
+msgid "Saved: Allowed contacts: {0}"
+msgstr "Salvato: Contatti consentiti: {0}"
+
+#: src/components/AppContent.tsx:372
+msgid "Search..."
+msgstr "Cerca..."
+
+#: src/components/AppContent.tsx:206
+msgid "Select allowed contacts and save first."
+msgstr "Seleziona i contatti consentiti e salva prima."
+
+#: src/components/AppContent.tsx:296
+msgid "Select allowed contacts to mark them as favorites."
+msgstr "Seleziona i contatti consentiti per contrassegnarli come preferiti."
+
+#: src/components/AppContent.tsx:205
+msgid "Select contacts"
+msgstr "Seleziona contatti"
+
+#: src/components/AppContent.tsx:215
+msgid "Setup required"
+msgstr "Configurazione richiesta"
+
+#: src/components/AppContent.tsx:197
+msgid "To mark favorites (and allow calls during Do Not Disturb), Callsy needs permission to modify contacts (WRITE_CONTACTS)."
+msgstr "Per contrassegnare i preferiti (e consentire chiamate durante Non disturbare), Callsy necessita dell'autorizzazione a modificare i contatti (WRITE_CONTACTS)."
+
+#: src/components/AppContent.tsx:307
+msgid "WhatsApp"
+msgstr "WhatsApp"

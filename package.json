@@ -1,0 +1,41 @@
+{
+	"name": "callsy",
+	"version": "1.0.0",
+	"main": "index.ts",
+	"scripts": {
+		"start": "expo start",
+		"android": "expo run:android",
+		"android:prebuild": "npx expo prebuild --platform android",
+		"android:build": "npx eas-cli build --platform android --local --profile preview",
+		"ios": "expo run:ios",
+		"web": "expo start --web",
+		"lingui:extract": "npx lingui extract --verbose",
+		"lingui:compile": "npx lingui compile"
+	},
+	"dependencies": {
+		"@expo/vector-icons": "^15.0.3",
+		"@lingui/core": "^5.7.0",
+		"@lingui/macro": "^5.7.0",
+		"@lingui/react": "5.7.0",
+		"@react-native-async-storage/async-storage": "2.2.0",
+		"expo": "~54.0.29",
+		"expo-contacts": "~15.0.11",
+		"expo-localization": "~17.0.8",
+		"expo-status-bar": "~3.0.9",
+		"react": "19.1.0",
+		"react-native": "0.81.5",
+		"react-native-gesture-handler": "~2.28.0",
+		"react-native-paper": "^5.14.5",
+		"react-native-safe-area-context": "~5.6.0",
+		"react-native-svg": "^15.15.1"
+	},
+	"devDependencies": {
+		"@babel/plugin-proposal-class-properties": "^7.18.6",
+		"@lingui/babel-plugin-lingui-macro": "^5.7.0",
+		"@lingui/cli": "^5.7.0",
+		"@types/react": "~19.1.0",
+		"babel-preset-expo": "^54.0.9",
+		"typescript": "~5.9.2"
+	},
+	"private": true
+}

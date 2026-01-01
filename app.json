@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "Callsy",
+    "slug": "callsy",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": false,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0097a7"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.displaynone.callsy"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#0097a7"
+      },
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false,
+      "package": "com.displaynone.callsy"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5d5f4b8c-95dc-4a96-be5d-25a3405a973b"
+      }
+    }
+  }
+}

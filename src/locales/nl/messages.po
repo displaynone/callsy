@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2026-01-01 00:50+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: nl\n"
+
+#: src/components/AppContent.tsx:128
+msgid "(No name)"
+msgstr "(Geen naam)"
+
+#: src/components/AppContent.tsx:301
+msgid "Calls"
+msgstr "Oproepen"
+
+#: src/components/AppContent.tsx:216
+msgid "Callsy marked your allowed contacts as favorites. Now go to Do Not Disturb -> People/Calls and allow calls from Favorites/Starred contacts. If your phone doesn't offer that option, you can only allow Contacts or Repeated calls."
+msgstr "Callsy heeft je toegestane contacten als favorieten gemarkeerd. Ga nu naar Niet storen -> Personen/Oproepen en sta oproepen toe van Favorieten/Met ster gemarkeerde contacten. Als je telefoon die optie niet biedt, kun je alleen Contacten of Herhaalde oproepen toestaan."
+
+#: src/components/AppContent.tsx:256
+msgid "Could not open notification access settings."
+msgstr "Kan de instellingen voor meldingstoegang niet openen."
+
+#: src/components/AppContent.tsx:245
+msgid "Enable notification access for Callsy (used to filter WhatsApp notifications)."
+msgstr "Schakel meldingstoegang in voor Callsy (gebruikt om WhatsApp-meldingen te filteren)."
+
+#: src/components/AppContent.tsx:255
+msgid "Error"
+msgstr "Fout"
+
+#: src/components/AppContent.tsx:104
+msgid "I need access to your contacts."
+msgstr "Ik heb toegang tot je contacten nodig."
+
+#: src/components/AppContent.tsx:354
+msgid "Load contacts"
+msgstr "Contacten laden"
+
+#: src/components/AppContent.tsx:382
+msgid "Loading..."
+msgstr "Laden..."
+
+#: src/components/AppContent.tsx:228
+#: src/components/AppContent.tsx:261
+msgid "OK"
+msgstr "OK"
+
+#: src/components/AppContent.tsx:219
+msgid "Open Do Not Disturb"
+msgstr "Niet storen openen"
+
+#: src/components/AppContent.tsx:248
+msgid "Open settings"
+msgstr "Instellingen openen"
+
+#: src/components/AppContent.tsx:103
+#: src/components/AppContent.tsx:196
+msgid "Permission required"
+msgstr "Toestemming vereist"
+
+#: src/components/AppContent.tsx:244
+msgid "Requires notification access"
+msgstr "Meldingstoegang vereist"
+
+#: src/components/AppContent.tsx:365
+msgid "Save selection"
+msgstr "Selectie opslaan"
+
+#. placeholder {0}: selected.length
+#: src/components/AppContent.tsx:169
+msgid "Saved: Allowed contacts: {0}"
+msgstr "Opgeslagen: Toegestane contacten: {0}"
+
+#: src/components/AppContent.tsx:372
+msgid "Search..."
+msgstr "Zoeken..."
+
+#: src/components/AppContent.tsx:206
+msgid "Select allowed contacts and save first."
+msgstr "Selecteer toegestane contacten en sla eerst op."
+
+#: src/components/AppContent.tsx:296
+msgid "Select allowed contacts to mark them as favorites."
+msgstr "Selecteer toegestane contacten om ze als favorieten te markeren."
+
+#: src/components/AppContent.tsx:205
+msgid "Select contacts"
+msgstr "Contacten selecteren"
+
+#: src/components/AppContent.tsx:215
+msgid "Setup required"
+msgstr "Instelling vereist"
+
+#: src/components/AppContent.tsx:197
+msgid "To mark favorites (and allow calls during Do Not Disturb), Callsy needs permission to modify contacts (WRITE_CONTACTS)."
+msgstr "Om favorieten te markeren (en oproepen toe te staan tijdens Niet storen), heeft Callsy toestemming nodig om contacten te wijzigen (WRITE_CONTACTS)."
+
+#: src/components/AppContent.tsx:307
+msgid "WhatsApp"
+msgstr "WhatsApp"

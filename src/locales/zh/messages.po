@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2026-01-01 00:50+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: zh\n"
+
+#: src/components/AppContent.tsx:128
+msgid "(No name)"
+msgstr "(无名称)"
+
+#: src/components/AppContent.tsx:301
+msgid "Calls"
+msgstr "通话"
+
+#: src/components/AppContent.tsx:216
+msgid "Callsy marked your allowed contacts as favorites. Now go to Do Not Disturb -> People/Calls and allow calls from Favorites/Starred contacts. If your phone doesn't offer that option, you can only allow Contacts or Repeated calls."
+msgstr "Callsy 已将允许的联系人标记为收藏。现在前往“勿扰模式”->“人员/通话”，并允许来自收藏/加星联系人的通话。如果你的手机没有该选项，则只能允许联系人或重复来电。"
+
+#: src/components/AppContent.tsx:256
+msgid "Could not open notification access settings."
+msgstr "无法打开通知访问设置。"
+
+#: src/components/AppContent.tsx:245
+msgid "Enable notification access for Callsy (used to filter WhatsApp notifications)."
+msgstr "为 Callsy 启用通知访问（用于过滤 WhatsApp 通知）。"
+
+#: src/components/AppContent.tsx:255
+msgid "Error"
+msgstr "错误"
+
+#: src/components/AppContent.tsx:104
+msgid "I need access to your contacts."
+msgstr "我需要访问你的联系人。"
+
+#: src/components/AppContent.tsx:354
+msgid "Load contacts"
+msgstr "加载联系人"
+
+#: src/components/AppContent.tsx:382
+msgid "Loading..."
+msgstr "正在加载..."
+
+#: src/components/AppContent.tsx:228
+#: src/components/AppContent.tsx:261
+msgid "OK"
+msgstr "确定"
+
+#: src/components/AppContent.tsx:219
+msgid "Open Do Not Disturb"
+msgstr "打开勿扰模式"
+
+#: src/components/AppContent.tsx:248
+msgid "Open settings"
+msgstr "打开设置"
+
+#: src/components/AppContent.tsx:103
+#: src/components/AppContent.tsx:196
+msgid "Permission required"
+msgstr "需要权限"
+
+#: src/components/AppContent.tsx:244
+msgid "Requires notification access"
+msgstr "需要通知访问"
+
+#: src/components/AppContent.tsx:365
+msgid "Save selection"
+msgstr "保存选择"
+
+#. placeholder {0}: selected.length
+#: src/components/AppContent.tsx:169
+msgid "Saved: Allowed contacts: {0}"
+msgstr "已保存：允许的联系人：{0}"
+
+#: src/components/AppContent.tsx:372
+msgid "Search..."
+msgstr "搜索..."
+
+#: src/components/AppContent.tsx:206
+msgid "Select allowed contacts and save first."
+msgstr "先选择允许的联系人并保存。"
+
+#: src/components/AppContent.tsx:296
+msgid "Select allowed contacts to mark them as favorites."
+msgstr "选择允许的联系人以标记为收藏。"
+
+#: src/components/AppContent.tsx:205
+msgid "Select contacts"
+msgstr "选择联系人"
+
+#: src/components/AppContent.tsx:215
+msgid "Setup required"
+msgstr "需要设置"
+
+#: src/components/AppContent.tsx:197
+msgid "To mark favorites (and allow calls during Do Not Disturb), Callsy needs permission to modify contacts (WRITE_CONTACTS)."
+msgstr "要标记收藏（并在勿扰模式下允许通话），Callsy 需要修改联系人权限（WRITE_CONTACTS）。"
+
+#: src/components/AppContent.tsx:307
+msgid "WhatsApp"
+msgstr "WhatsApp"

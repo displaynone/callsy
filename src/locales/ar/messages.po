@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2026-01-01 00:50+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: ar\n"
+
+#: src/components/AppContent.tsx:128
+msgid "(No name)"
+msgstr "(بدون اسم)"
+
+#: src/components/AppContent.tsx:301
+msgid "Calls"
+msgstr "المكالمات"
+
+#: src/components/AppContent.tsx:216
+msgid "Callsy marked your allowed contacts as favorites. Now go to Do Not Disturb -> People/Calls and allow calls from Favorites/Starred contacts. If your phone doesn't offer that option, you can only allow Contacts or Repeated calls."
+msgstr "قام Callsy بوضع جهات الاتصال المسموح بها في المفضلة. الآن انتقل إلى عدم الإزعاج -> الأشخاص/المكالمات واسمح بالمكالمات من جهات الاتصال المفضلة/المميزة بنجمة. إذا لم يوفر هاتفك هذا الخيار، فيمكنك فقط السماح بجهات الاتصال أو المكالمات المتكررة."
+
+#: src/components/AppContent.tsx:256
+msgid "Could not open notification access settings."
+msgstr "تعذر فتح إعدادات الوصول للإشعارات."
+
+#: src/components/AppContent.tsx:245
+msgid "Enable notification access for Callsy (used to filter WhatsApp notifications)."
+msgstr "فعّل الوصول إلى الإشعارات لـ Callsy (يُستخدم لتصفية إشعارات WhatsApp)."
+
+#: src/components/AppContent.tsx:255
+msgid "Error"
+msgstr "خطأ"
+
+#: src/components/AppContent.tsx:104
+msgid "I need access to your contacts."
+msgstr "أحتاج إلى الوصول إلى جهات الاتصال الخاصة بك."
+
+#: src/components/AppContent.tsx:354
+msgid "Load contacts"
+msgstr "تحميل جهات الاتصال"
+
+#: src/components/AppContent.tsx:382
+msgid "Loading..."
+msgstr "جارٍ التحميل..."
+
+#: src/components/AppContent.tsx:228
+#: src/components/AppContent.tsx:261
+msgid "OK"
+msgstr "موافق"
+
+#: src/components/AppContent.tsx:219
+msgid "Open Do Not Disturb"
+msgstr "فتح عدم الإزعاج"
+
+#: src/components/AppContent.tsx:248
+msgid "Open settings"
+msgstr "فتح الإعدادات"
+
+#: src/components/AppContent.tsx:103
+#: src/components/AppContent.tsx:196
+msgid "Permission required"
+msgstr "مطلوب إذن"
+
+#: src/components/AppContent.tsx:244
+msgid "Requires notification access"
+msgstr "يتطلب الوصول للإشعارات"
+
+#: src/components/AppContent.tsx:365
+msgid "Save selection"
+msgstr "حفظ التحديد"
+
+#. placeholder {0}: selected.length
+#: src/components/AppContent.tsx:169
+msgid "Saved: Allowed contacts: {0}"
+msgstr "تم الحفظ: جهات الاتصال المسموح بها: {0}"
+
+#: src/components/AppContent.tsx:372
+msgid "Search..."
+msgstr "بحث..."
+
+#: src/components/AppContent.tsx:206
+msgid "Select allowed contacts and save first."
+msgstr "حدد جهات الاتصال المسموح بها واحفظ أولاً."
+
+#: src/components/AppContent.tsx:296
+msgid "Select allowed contacts to mark them as favorites."
+msgstr "حدد جهات الاتصال المسموح بها لوضعها في المفضلة."
+
+#: src/components/AppContent.tsx:205
+msgid "Select contacts"
+msgstr "حدد جهات الاتصال"
+
+#: src/components/AppContent.tsx:215
+msgid "Setup required"
+msgstr "مطلوب إعداد"
+
+#: src/components/AppContent.tsx:197
+msgid "To mark favorites (and allow calls during Do Not Disturb), Callsy needs permission to modify contacts (WRITE_CONTACTS)."
+msgstr "لوضع المفضلة (وللسماح بالمكالمات أثناء عدم الإزعاج)، يحتاج Callsy إلى إذن لتعديل جهات الاتصال (WRITE_CONTACTS)."
+
+#: src/components/AppContent.tsx:307
+msgid "WhatsApp"
+msgstr "WhatsApp"
