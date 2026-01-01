@@ -1,5 +1,7 @@
 # Callsy
 
+<img src="./assets/adaptive-icon.png" alt="Callsy icon" style="max-width: 240px;">
+
 Callsy is a mobile app that lets you pick “allowed” contacts for calls and enable options related to Do Not Disturb (DND) and WhatsApp notifications.
 
 ## What it does
